@@ -1,7 +1,7 @@
 # 🚀 Javascript full-stack 🚀
-## MERN Stack
+## MERG Stack
 ### React / Apollo Server / MongoDB / GQL
-
+![alt text](https://drive.google.com/file/d/17ROb2zFn39uDApFs91ZIqqwPMsawPADA/view?usp=sharing)
 # Create A PERFECT Modern FACEBOOK News Feed !
 
 Create A Modern FACEBOOK News Feed is a educational project. The main idea is to demonstrate how one can build a large scalable project with REACT JS. However you get the core functionality of Facebook timetile by running one command and then you can build more on top of that.
