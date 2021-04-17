@@ -15,10 +15,7 @@ Repository is divided into two main packages ideas:
 
 ## Features
 
-- **Create Post** Real time post system.
-- **Notifications** Get instant notification when someone follows/messages you or likes/comments on your post.
-- **User Status** Check if user is Online or not in real time.
-- **News Feed** Fresh posts from people you are following.
-- **Explore** New Posts and People.
-- **Follow** a particular user and get notified for their activity.
-- **Authentication & Authorization** with Password reset functionality.
+- ** Login, Register**
+- **Create Post, Comment, Reply, Like-P-C-R, Delete-P-C-R**.
+- **more...
+
