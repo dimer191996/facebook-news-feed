@@ -10,8 +10,8 @@ Repository is divided into two main packages ideas:
 
 - **graphql** This package contains API for Modern FACEBOOK News Feed App, built with Nodejs, Express, GraphQL, Apollo Server and MongoDB with Mongoose.
 - **frontend** Is a frontend for Modern FACEBOOK News Feed App, built with React, GraphQL, Apollo Client and Styled Components.
-  #InConstruction
-- **lib** Is a Nodejs command line script, that helps users to install the Modern FACEBOOK News Feed App with one command. This package is published to NPM as a `create-facebook-news-feed`
+  ---------------------
+- #InConstruction **lib** Is a Nodejs command line script, that helps users to install the Modern FACEBOOK News Feed App with one command. This package is published to NPM as a `create-facebook-news-feed`
 
 ## Features
 
